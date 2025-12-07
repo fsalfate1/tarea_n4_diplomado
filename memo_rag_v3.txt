@@ -1,0 +1,20 @@
+Lineamientos básicos de RAG:
+
+1. **Definición de RAG**: RAG (Red, Amber, Green) es un sistema de codificación de colores utilizado para evaluar el estado de un proyecto o tarea.
+
+2. **Colores y significados**:
+   - **Rojo (Red)**: Indica que hay problemas significativos que requieren atención inmediata.
+   - **Ámbar (Amber)**: Señala que hay algunos problemas que deben ser monitoreados, pero no son críticos.
+   - **Verde (Green)**: Significa que todo está en orden y el proyecto avanza según lo planeado.
+
+3. **Uso de RAG**:
+   - Se debe aplicar en informes de estado, reuniones de seguimiento y revisiones de proyectos.
+   - Los colores deben ser actualizados regularmente para reflejar el estado actual del proyecto.
+
+4. **Responsabilidades**:
+   - Cada miembro del equipo debe ser responsable de actualizar el estado de sus tareas utilizando el sistema RAG.
+   - Los líderes de proyecto deben revisar y consolidar los estados RAG de todo el equipo.
+
+5. **Beneficios de RAG**:
+   - Proporciona una visualización clara del estado del proyecto.
+   - Facilita la identificación temprana de problemas y la toma de decisiones informadas.
