@@ -1,20 +1,24 @@
 Lineamientos básicos de RAG:
 
-1. **Definición de RAG**: RAG (Red, Amber, Green) es un sistema de codificación de colores utilizado para evaluar el estado de un proyecto o tarea.
+1. **Definición de RAG**: RAG (Retrieval-Augmented Generation) es un enfoque que combina la recuperación de información y la generación de texto para mejorar la calidad de las respuestas generadas por modelos de lenguaje.
 
-2. **Colores y significados**:
-   - **Rojo (Red)**: Indica que hay problemas significativos que requieren atención inmediata.
-   - **Ámbar (Amber)**: Señala que hay algunos problemas que deben ser monitoreados, pero no son críticos.
-   - **Verde (Green)**: Significa que todo está en orden y el proyecto avanza según lo planeado.
+2. **Objetivo**: El objetivo principal de RAG es proporcionar respuestas más precisas y relevantes al integrar información externa en el proceso de generación de texto.
 
-3. **Uso de RAG**:
-   - Se debe aplicar en informes de estado, reuniones de seguimiento y revisiones de proyectos.
-   - Los colores deben ser actualizados regularmente para reflejar el estado actual del proyecto.
+3. **Componentes Clave**:
+   - **Módulo de Recuperación**: Se encarga de buscar y recuperar documentos relevantes de una base de datos o corpus de texto.
+   - **Módulo de Generación**: Utiliza la información recuperada para generar respuestas coherentes y contextualmente adecuadas.
 
-4. **Responsabilidades**:
-   - Cada miembro del equipo debe ser responsable de actualizar el estado de sus tareas utilizando el sistema RAG.
-   - Los líderes de proyecto deben revisar y consolidar los estados RAG de todo el equipo.
+4. **Proceso de Funcionamiento**:
+   - El modelo recibe una consulta o pregunta.
+   - Se utiliza el módulo de recuperación para encontrar documentos relevantes.
+   - El módulo de generación utiliza estos documentos para crear una respuesta.
 
-5. **Beneficios de RAG**:
-   - Proporciona una visualización clara del estado del proyecto.
-   - Facilita la identificación temprana de problemas y la toma de decisiones informadas.
+5. **Ventajas de RAG**:
+   - Mejora la precisión de las respuestas.
+   - Permite el acceso a información actualizada y específica.
+   - Aumenta la capacidad del modelo para manejar preguntas complejas.
+
+6. **Aplicaciones**:
+   - Asistentes virtuales.
+   - Sistemas de soporte al cliente.
+   - Herramientas de búsqueda y recuperación de información.

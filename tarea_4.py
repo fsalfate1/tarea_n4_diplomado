@@ -14,7 +14,8 @@ from langchain.chat_models import init_chat_model
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.types import Command
 
-
+#source .venv/bin/activate
+#pip install -r requirements.txt
 #python tarea_grupal_4_v3.py
 
 
