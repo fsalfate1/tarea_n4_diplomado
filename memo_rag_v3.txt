@@ -5,7 +5,7 @@ Lineamientos básicos de RAG:
 2. **Objetivo**: El objetivo principal de RAG es proporcionar respuestas más precisas y relevantes al integrar información externa en el proceso de generación de texto.
 
 3. **Componentes Clave**:
-   - **Módulo de Recuperación**: Se encarga de buscar y recuperar documentos relevantes de una base de datos o corpus de texto.
+   - **Módulo de Recuperación**: Se encarga de buscar y recuperar documentos relevantes de una base de datos o corpus.
    - **Módulo de Generación**: Utiliza la información recuperada para generar respuestas coherentes y contextualmente adecuadas.
 
 4. **Proceso de Funcionamiento**:
@@ -21,4 +21,8 @@ Lineamientos básicos de RAG:
 6. **Aplicaciones**:
    - Asistentes virtuales.
    - Sistemas de soporte al cliente.
-   - Herramientas de búsqueda y recuperación de información.
+   - Generación de contenido automatizado.
+
+7. **Desafíos**:
+   - La calidad de la información recuperada puede afectar la respuesta final.
+   - Requiere un balance adecuado entre recuperación y generación para ser efectivo.
